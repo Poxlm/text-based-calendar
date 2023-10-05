@@ -73,18 +73,6 @@ Contributions to this calendar project are welcome! To contribute:
 
 6. Your contribution will be reviewed, and if approved, it will be merged.
 
-## Upcoming Features
-
-Here are some upcoming features planned for this calendar:
-
-- Export and import events to/from a file for data backup.
-- Improved handling of recurring events with flexible recurrence patterns.
-- Ability to customize event notifications (e.g., sound alerts).
-- User authentication and multiple user support.
-- Integration with external calendar services such as Google Calendar.
-
-Feel free to contribute or suggest additional features!
-
 ---
 
 Enjoy using your text-based Python calendar! If you have any questions or encounter issues, please don't hesitate to open an issue on the repository.
